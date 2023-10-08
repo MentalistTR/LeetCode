@@ -1,0 +1,5 @@
+var projectionArea = function(grid) {
+
+
+
+}
